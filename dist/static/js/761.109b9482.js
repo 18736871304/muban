@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwei"]=self["webpackChunkwei"]||[]).push([[761],{46761:(e,l,n)=>{n.r(l),n.d(l,{default:()=>i});var s=function(){var e=this,l=e._self._c;return l("div",[e._v("保险金额管理")])},u=[];const t={},r=t;var c=n(1001),a=(0,c.Z)(r,s,u,!1,null,null,null);const i=a.exports}}]);
+//# sourceMappingURL=761.109b9482.js.map
